@@ -1,19 +1,12 @@
 package com.company;
 
-// import java.util.Random;
-// import java.util.Scanner;
-
 // https://qaarchint.files.wordpress.com/2021/01/javaex4.pdf
-
 
 public class Main
 {
 
     public static void main(String[] args)
     {
-        // Scanner s = new Scanner(System.in);
-        // Random r = new Random();
-
         //ex3+4
         createDog();
 
